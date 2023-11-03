@@ -4,7 +4,7 @@
 
 • 📖 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 
-• 🌱 Meu foco está em Fron-End.
+• 🌱 Meu foco está em Front-End.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaina-lopes&show_icons=true&theme=tokyonight"/>

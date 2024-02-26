@@ -1,4 +1,4 @@
-## 🖖 Hi! 
+## 🖖 Oi! 
 
 • ✨ Me chamo Thainá Lopes
 
@@ -11,11 +11,11 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaina-lopes&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🔗 Let's get connected:
+## 🔗 Rede Social:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaina-lops/)
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Tecnologias e ferramentas que uso:
 
 <div>
   <img align="center" alt="thaina-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
